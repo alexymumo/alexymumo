@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Unit Testing and Jetpack Compose.**
 - 📫 How to reach me:
      - 📧 **alexymumo2000@gmail.com**
-     - 🤙 **+254797642381**
+     - 🤙 **@alexymumo_**
   
 
  ### Languages
