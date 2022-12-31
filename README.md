@@ -45,3 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexymumo&hide=html&langs_count=8&layout=compact&theme=dark" alt="Alex Mumo" height="165" />
  </p>
  
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=87jmrve6xeya3wa0z1dsdvdfq&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=87jmrve6xeya3wa0z1dsdvdfq&redirect=true)
+ 
