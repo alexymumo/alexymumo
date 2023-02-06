@@ -4,11 +4,10 @@
 
 ## **🙋‍♂️ About Me**
 
-- 👨🏾‍💻 Currently working on Android, Python and Golang projects.
-- 🌱 I’m currently learning **Unit Testing and Jetpack Compose.**
+- 👨🏾‍💻 Currently working on Android, Kotlin and Golang projects.
+- 🌱 I’m currently learning **Backend development.**
 - 📫 How to reach me:
-     - 📧 **alexymumo2000@gmail.com**
-     - 🤙 **@alexymumo_**
+     - 📧 **alexmumoit12@gmail.com**
   
 
  ### Languages
