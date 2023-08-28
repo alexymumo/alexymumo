@@ -40,7 +40,6 @@
 <br>
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=alexymumo&count_private=true&show_icons=true&theme=dark" alt="Alex Mumo" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexymumo&hide=html&langs_count=8&layout=compact&theme=dark" alt="Alex Mumo" height="165" />
  </p>
  
