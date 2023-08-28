@@ -5,7 +5,6 @@
 ## **🙋‍♂️ About Me**
 
 - 👨🏾‍💻 Currently working on Android, Java, Kotlin and Golang projects.
-- 🌱 I’m currently learning **Backend development.**
 - 📫 How to reach me:
      - 📧 **alexmumoit12@gmail.com**
   
