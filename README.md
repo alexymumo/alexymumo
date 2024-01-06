@@ -10,7 +10,6 @@ I design and develop solutions for Android
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-<img  src="https://img.shields.io/badge/Python-B75806?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 </p>
 
 <br>
