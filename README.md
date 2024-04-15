@@ -1,6 +1,4 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Alex Mumo</h1>
-I design and develop solutions for Android 
-
 
   
 
@@ -16,7 +14,7 @@ I design and develop solutions for Android
 
 ## Database
 <ul align="left"  style="background-color:white; padding:20px;"> 
-     <li> <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">  Mysql</a></li>
+     <li> <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">  MySQL</a></li>
 </ul>
 
 <br>
