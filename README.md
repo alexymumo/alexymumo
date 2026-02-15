@@ -15,6 +15,8 @@
 ## Database
 <ul align="left"  style="background-color:white; padding:20px;"> 
      <li> <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">  MySQL</a></li>
+     <li> <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">  PostgreSQL</a></li>
+     <li> <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">  Oracle</a></li>
 </ul>
 
 <br>
